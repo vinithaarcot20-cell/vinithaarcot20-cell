@@ -36,19 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinithaarcot20-cell&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinithaarcot20-cell&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinithaarcot20-cell&layout=compact&theme=tokyonight&hide_border=true" height="140" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
